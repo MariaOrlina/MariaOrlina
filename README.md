@@ -87,7 +87,7 @@ _Ready to code, learn, and innovate!_ ✨
 - Achieved a 20% increase in security and enhanced user interactions.
 
 ### [Dynamic Recommendation Engine](https://github.com/MariaOrlina/DynamicRecommendationEngine)
-- Developed a dynamic recommendation engine leveraging **TensorFlow** and **Python** to enhance personalization in e-commerce platforms.
+- Developed a dynamic recommendation engine leveraging **Node.JS** and **OpenAI API** to enhance personalization in a university platform.
 - Achieved a 25% increase in user engagement and conversion rates.
 
 ### [Cloud-Native E-commerce Platform](https://github.com/MariaOrlina/CloudEcommerce)
