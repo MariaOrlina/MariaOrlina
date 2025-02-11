@@ -99,7 +99,7 @@ _Ready to code, learn, and innovate!_ ✨
 ## 📚 Education
 
 - **Master of Computer Science** - Illinois Institute of Technology (GPA: 3.8)
-- **Bachelor of Technology in Computer Science & Engineering** - Andhra University
+- **Bachelor of Technology in Computer Science & Engineering** - Andhra University (GPA: 3.6)
 
 ---
 
