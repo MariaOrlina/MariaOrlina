@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maria Orlina!
 
-- 🎓 Recent Master's graduate in Computer Science, always eager to dive into the world of algorithms and data structures.
+- 🎓 Master's graduate in Computer Science, always eager to dive into the world of algorithms and data structures.
 - 💻 I love building scalable distributed systems and enhancing system efficiency, one line of code at a time.
 - ☁️ I’m fascinated by cloud computing and enjoy leveraging platforms like AWS, Azure, and Google Cloud to create innovative solutions.
 - 🧩 I thrive on tackling complex problems and finding the best, most efficient solutions.
