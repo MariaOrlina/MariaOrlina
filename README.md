@@ -64,11 +64,10 @@ _Ready to code, learn, and innovate!_ ✨
 
 | **Year**          | **Role**                                | **Company**                          | **Highlights**                                      |
 |-------------------|-----------------------------------------|--------------------------------------|-----------------------------------------------------|
-| **December 2023 - Present** | 🎯 **Software Engineer**              | **Bright Minds Enrichment**           | Developed integration strategies and optimized backend services. |
-| **August 2023 - May 2024** | 🔧 **Technical Support Associate** | **Illinois Tech Sports Center**       | Resolved 100+ issues and improved system performance by 20%.     |
-| **August 2023 - May 2024** | 🧑‍🏫 **Graduate Teaching Assistant** | **Illinois Institute of Technology**  | Designed assignments, led lab sessions, and reduced faculty support by 15%. |
-| **May 2020 - April 2022** | 💻 **Software Engineer**           | **Technocolabs**                      | Developed backend services, optimized data management, and collaborated across teams. |
-| **August 2020 - November 2020** | 🛠️ **Product Engineer Intern**    | **Upkey**                             | Built full-stack web apps, set up CI/CD pipelines, and enhanced data retrieval speed. |
+| **May 2025 - Present** | 🎯 **Java FullStack Developer**              | **Bank of America**           | Developed integration strategies and optimized backend services. |
+| **June 2024 - April 2025** | 🔧 **Software Engineer** | **Walmart**       | Resolved 100+ issues and improved system performance by 20%.     |
+| **August 2023 - May 2024** | 🧑‍🏫 **Graduate Teaching Assistant** | **Illinois Institute of Technolog**  | Designed assignments, led lab sessions, and reduced faculty support by 15%. |
+| **May 2020 - April 2022** | 💻 **Software Engineer**           | **Optum**                      | Developed backend services, optimized data management, and collaborated across teams. |
 
 ---
 
