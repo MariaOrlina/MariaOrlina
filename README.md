@@ -4,7 +4,7 @@
 - 💻 I love building scalable distributed systems and enhancing system efficiency, one line of code at a time.
 - ☁️ I’m fascinated by cloud computing and enjoy leveraging platforms like AWS, Azure, and Google Cloud to create innovative solutions.
 - 🧩 I thrive on tackling complex problems and finding the best, most efficient solutions.
-- 📚 Learning is my forever growth mindset — there’s always something new to explore, and I’m always up for the challenge!
+- 📚 Learning is my forever growth mindset, there’s always something new to explore, and I’m always up for the challenge!
 - 🚀 I love taking on new challenges that push my boundaries and help me grow, both professionally and personally.
 
 _Ready to code, learn, and innovate!_ ✨
