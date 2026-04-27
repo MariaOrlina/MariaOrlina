@@ -64,8 +64,8 @@ _Ready to code, learn, and innovate!_ ✨
 
 | **Year**          | **Role**                                | **Company**                          | **Highlights**                                      |
 |-------------------|-----------------------------------------|--------------------------------------|-----------------------------------------------------|
-| **May 2025 - Present** | 🎯 **Java FullStack Developer**              | **Bank of America**           | Developed integration strategies and optimized backend services. |
-| **June 2024 - April 2025** | 🔧 **Software Engineer** | **Walmart**       | Resolved 100+ issues and improved system performance by 20%.     |
+| **May 2025 - Present** | 🎯 **Java FullStack Developer**              | **Collabera - Bank of America**           | Developed integration strategies and optimized backend services. |
+| **June 2024 - April 2025** | 🔧 **Software Engineer** | **Bright Mind Enrichment and Schooling**       | Resolved 100+ issues and improved system performance by 20%.     |
 | **August 2023 - May 2024** | 🧑‍🏫 **Graduate Teaching Assistant** | **Illinois Institute of Technolog**  | Designed assignments, led lab sessions, and reduced faculty support by 15%. |
 | **May 2020 - April 2022** | 💻 **Software Engineer**           | **Optum**                      | Developed backend services, optimized data management, and collaborated across teams. |
 
